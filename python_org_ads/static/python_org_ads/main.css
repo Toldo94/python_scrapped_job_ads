@@ -1,0 +1,16 @@
+body {
+    background: #fafafa;
+    color: #333333;
+}
+
+.navbar-base {
+    background: #2a9d8f;
+}
+
+.card-main-width {
+    width: 100%;
+}
+
+#main-content {
+    min-height: calc(100vh - 128px);
+} 
